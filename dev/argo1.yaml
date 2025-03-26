@@ -18,7 +18,7 @@ spec:
         app: argo1
     spec:
       containers:
-      - image: htppd
-        name: htppd
+      - image: httpd
+        name: httpd
         resources: {}
 status: {}
